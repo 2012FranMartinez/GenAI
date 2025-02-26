@@ -2,3 +2,5 @@
 docs/*
 venv_ia/
 .venv_ia/
+packages.txt
+zzz*
